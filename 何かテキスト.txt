@@ -1,1 +1,1 @@
-﻿作者: daisuke <>
+﻿IF daisuke <> 作者 Then
