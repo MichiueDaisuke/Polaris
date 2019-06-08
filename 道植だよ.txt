@@ -2,4 +2,5 @@
 1. 粉を買うよ
 eclipseから書き込み。
 slackテスト
+githubから書き込み。
 あ
